@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+
+.App {
+	text-align: center;
+	border: 1px solid;
+	width: 50%;
+	margin: 0 auto;
+	background-color: cornsilk;
+}
+* {
+	background-color: hsla(44, 80%, 74%, 1);
+	font-family: "Merienda";
+}
+
+h1 {
+	font-size: 60px;
+	background-color: cornsilk;
+}
+
+ul {
+	font-size: 18px;
+	list-style-type: none;
+	background-color: cornsilk;
+}
+
+li {
+	background-color: cornsilk;
+}
+
+#submitButton {
+	border-radius: 0%;
+}
+
+button {
+	margin: 10px;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border: none;
+	border-radius: 50%;
+}
+
+h2 {
+	font-size: 24px;
+	background-color: cornsilk;
+}
+
+section {
+	background-color: cornsilk;
+}
+
+fieldset {
+	border: none;
+	background-color: cornsilk;
+}
+legend {
+	background-color: cornsilk;
+	margin-bottom: 1px;
+}
+
+form {
+	background-color: cornsilk;
+}
+
+.priorities {
+	background-color: cornsilk;
+}
+
+input {
+	background-color: cornsilk;
+}
+
+label {
+	background-color: cornsilk;
+}
+
+p {
+	background-color: cornsilk;
+	margin-top: 2px;
+}
+
+#date {
+	background-color: cornsilk;
+}
+
+img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+}
